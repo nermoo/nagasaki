@@ -1,0 +1,21 @@
+Button{
+    background-color:#e33371;
+    width: 20px;
+}
+.items{
+    margin: 15px 10px 15px 10px;
+    vertical-align: top;
+    /* width: 30%; */
+    height: 300px;
+    display: inline-block;
+}
+.showButton{
+    /* background-color: green; */
+    width:auto;
+    color:salmon;
+}
+.images{
+    background-image: 'media/image1.jpg';
+    width: auto;
+    height: 100px;
+}
