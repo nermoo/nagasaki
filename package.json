@@ -36,5 +36,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "style-loader": "^2.0.0",
+    "webpack": "^5.20.2"
   }
 }

@@ -18,7 +18,7 @@ function App() {
   </Grid>
   <Grid  item xs={1} sm={2}/>
   </Grid>
-  <Navigation/>
+    <Navigation/>
   </Grid>
    
    
